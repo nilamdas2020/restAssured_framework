@@ -25,6 +25,16 @@ public class CommonMethodUtilities {
 		
 	}
 
+	/*public static void evidenceFileCreater(String string, String resource) {
+		// TODO Auto-generated method stub
+		
+	}*/
+
+	/*public static void evidenceFileCreater(String string, String resource) {
+		// TODO Auto-generated method stub
+		
+	}*/
+
 	/*public static void evidenceFileCreator(String fileName, String requestBody, int responseBody) throws IOException {
 		
 		// TODO Auto-generated method stub
